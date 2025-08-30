@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	k "producer/internal/kafka"
+	k "producer-consumer/internal/kafka"
 
 	"github.com/google/uuid"
 	"github.com/sirupsen/logrus"

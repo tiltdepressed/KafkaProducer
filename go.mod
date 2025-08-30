@@ -1,4 +1,4 @@
-module producer
+module producer-consumer
 
 go 1.25.0
 
